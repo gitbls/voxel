@@ -2,7 +2,7 @@
 command-line voice-activated recorder.
 This is a voice-activated recorder with a command line interface only (no GUI). When it's running it accepts single-letter commands:
 * h - Print some help
-* f - Print the current filename
+* f - Print the current recording filename
 * k - Print the peak and trigger levels
 * q - Quit
 * p - Start or stop the peak level meter
