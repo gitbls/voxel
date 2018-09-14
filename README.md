@@ -14,10 +14,8 @@ Help for the command-line interface
 
 usage: voxel.py COMMAND [-h] [-c CHUNK] [-d DEVNO] [-s SAVERECS] [-t THRESHOLD] [-l HANGDELAY]
 
-COMMAND is:
-    * record - enter record mode
-    * listdevs - list the sound devices
-    
+COMMAND is: 'record' to enter record mode or 'listdevs' to list the sound devices
+
     Requires Python3 and the modules python3-pyaudio python3-numpy libasound2-dev
     
     With thanks to https://github.com/russinnes/py-vox-recorder, on which this code is loosely based.
